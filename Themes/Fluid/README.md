@@ -37,8 +37,6 @@ settings:
   "theme": "",
   "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid > Taskbar.TaskbarBackground > Grid",
   "controlStyles[0].styles[0]": "Background:=<SolidColorBrush Color=\"{ThemeResource ControlFillColorDefault}\" />",
-  "controlStyles[0].styles[1]": "Margin=2",
-  "controlStyles[0].styles[2]": "CornerRadius=$CornerRadius",
   "controlStyles[1].target": "Rectangle#BackgroundStroke",
   "controlStyles[1].styles[0]": "Visibility=1",
   "controlStyles[2].target": "SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Border#BackgroundElement",
